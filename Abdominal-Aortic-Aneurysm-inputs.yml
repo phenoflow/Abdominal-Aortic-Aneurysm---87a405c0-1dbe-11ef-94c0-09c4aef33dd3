@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-rupture---primary.py
+inputModule3:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa---primary.py
+inputModule4:
+  class: File
+  path: python/aneurysm---primary.py
+inputModule5:
+  class: File
+  path: python/suprarenal-abdominal-aortic-aneurysm-aaa---primary.py
+inputModule6:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-replace---primary.py
+inputModule7:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-graft---primary.py
+inputModule8:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-emerg---primary.py
+inputModule9:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-aortouniiliac---primary.py
+inputModule10:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-specified---primary.py
+inputModule11:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-ascending---primary.py
+inputModule12:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-anast---primary.py
+inputModule13:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-operation---primary.py
+inputModule14:
+  class: File
+  path: python/infrarenal-abdominal-aortic-aneurysm-aaa---primary.py
+inputModule15:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-position---primary.py
+inputModule16:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-bifurc---primary.py
+inputModule17:
+  class: File
+  path: python/transluminal-abdominal-aortic-aneurysm-aaa---primary.py
+inputModule18:
+  class: File
+  path: python/thoracic-abdominal-aortic-aneurysm-aaa---primary.py
+inputModule19:
+  class: File
+  path: python/abdominal-aortic-aneurysm-aaa-dissection---primary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
